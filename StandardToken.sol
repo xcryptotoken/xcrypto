@@ -1,7 +1,7 @@
 
 import "TokenInterface.sol";
 
-pragma solidity ^0.4.0;
+pragma solidity ^0.4.2;
 
 /*
  * StandardToken - is a smart contract  
