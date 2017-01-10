@@ -32,7 +32,7 @@ contract XCrypto is StandardToken {
     // 1 ether = 100 XCR
     uint FIN_PRICE = 100;
     // Safety cap
-    uint SAFETY_LIMIT = 4000000 ether;
+    uint SAFETY_LIMIT = 5000000 ether;
     // Zeros after the point
     uint DECIMAL_ZEROS = 1000;
     
